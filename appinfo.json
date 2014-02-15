@@ -1,0 +1,18 @@
+{
+    "versionLabel": "1.0",
+    "uuid": "4b8da155-eef2-489c-88ad-00f78f4f93f4",
+    "appKeys": {},
+    "longName": "Test Project",
+    "versionCode": 1,
+    "capabilities": [
+        ""
+    ],
+    "shortName": "Test Project",
+    "companyName": "dpatuwo",
+    "watchapp": {
+        "watchface": false
+    },
+    "resources": {
+        "media": []
+    }
+}
